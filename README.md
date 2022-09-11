@@ -1,6 +1,6 @@
 # Front-end-go-on
 
-采用 markdown 的写法，记录前端成长的过程，持续更新，永不停止！
+采用 markdown 的写法，记录前端成长的过程，持续更新，永不停止！（当然不止前端）
 
 [预览地址](https://lll618xxx.github.io/Front-end-go-on/)
 
@@ -39,3 +39,4 @@
 - [项目工具库](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/skill/Tools.html)
 - [CSS动画库](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/skill/CSSAnimation.html)
 
+### 还有非前端的内容，客观请慢慢品尝
