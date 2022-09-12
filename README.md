@@ -39,4 +39,4 @@
 - [项目工具库](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/skill/Tools.html)
 - [CSS动画库](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/skill/CSSAnimation.html)
 
-### 还有非前端的内容，客观请慢慢品尝
+### 还有非前端的内容，请慢慢品尝
