@@ -40,4 +40,13 @@
 - [项目工具库](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/skill/Tools.html)
 - [CSS动画库](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/skill/CSSAnimation.html)
 
-### 还有非前端的内容，请慢慢品尝
+### Node
+
+- [Node基础](https://lll618xxx.github.io/Front-end-go-on/pages/otherLang/node/base.html)
+- [Node进阶](https://lll618xxx.github.io/Front-end-go-on/pages/otherLang/node/frame.html)
+- [Node工具](https://lll618xxx.github.io/Front-end-go-on/pages/otherLang/node/tool.html)
+
+### Linux
+
+- [Linux基础](https://lll618xxx.github.io/Front-end-go-on/pages/otherLang/linux/base.html)
+- [Linux环境](https://lll618xxx.github.io/Front-end-go-on/pages/otherLang/linux/env.html)
