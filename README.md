@@ -3,9 +3,6 @@
 采用 markdown 的写法，记录前端成长的过程，持续更新，永不停止！（当然不止前端）
 
 [预览地址](https://lll618xxx.github.io/Front-end-go-on/)
-
-## 菜谱指引
-
 ### 前端基础
 
 - [HTML 基础](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/base/Html.html)
