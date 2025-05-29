@@ -6,27 +6,35 @@
 
 ### 前端基础
 
--   [HTML 基础](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/base/Html.html)
--   [CSS 基础](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/base/Css.html)
--   [JS 基础](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/base/Js.html)
--   [ES6 基础](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/base/ES6.html)
--   [HTTP 基础](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/base/Http.html)
+-   [HTML基础](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/base/Html.html)
+-   [CSS基础](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/base/Css.html)
+-   [JS基础](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/base/Js.html)
+-   [ES6基础](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/base/ES6.html)
+-   [HTTP基础](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/base/Http.html)
 -   [前端缓存](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/base/Cache.html)
+-   [页面性能](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/base/Performance.html)
 -   [数据结构基础](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/base/Algorithm.html)
 -   [我的文章](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/base/MyArticle.html)
 
 ### 前端进阶
 
--   [Vue2 基础](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/frame/base/Vue.html)
--   [Vue2 进阶](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/frame/advanced/Vue.html)
--   [Vue3 基础](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/frame/base/Vue.html)
--   [React 基础](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/frame/base/React.html)
--   [React 进阶](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/frame/advanced/React.html)
--   [RN 基础](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/frame/base/RN.html)
--   [RN 环境搭建和打包](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/frame/base/RNEnv.html)
--   [Webpack](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/frame/base/Webpack.html)
--   [TS 基础](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/frame/base/Ts.html)
--   [Nuxt 基础](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/frame/base/Nuxt.html)
+-   [Vue2基础](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/frame/base/Vue.html)
+-   [Vue2进阶](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/frame/advanced/Vue.html)
+-   [Vue3基础](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/frame/base/Vue.html)
+-   [Vue3进阶](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/frame/advanced/Vue3.html)
+-   [React基础](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/frame/base/React.html)
+-   [React进阶](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/frame/advanced/React.html)
+-   [React18新特性](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/frame/advanced/React18.html)
+-   [Vue和React对比](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/frame/base/VueVsReact.html)
+-   [RN基础](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/frame/base/RN.html)
+-   [RN环境搭建和打包](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/frame/base/RNEnv.html)
+-   [打包工具](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/frame/base/Packaging.html)
+-   [TS基础](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/frame/base/Ts.html)
+-   [Nuxt基础](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/frame/base/Nuxt.html)
+-   [小程序基础](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/frame/base/Applet.html)
+-   [微前端基础](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/frame/base/MicroFrontend.html)
+-   [uni-app基础](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/frame/base/UniApp.html)
+-   [业务相关](https://lll618xxx.github.io/Front-end-go-on/pages/frontend/frame/base/Business.html)
 
 ### 前端代码练习
 
@@ -64,3 +72,9 @@
 
 -   [Whistle](https://lll618xxx.github.io/Front-end-go-on/pages/otherLang/wireshark/whistle.html)
 -   [Fiddler](https://lll618xxx.github.io/Front-end-go-on/pages/otherLang/wireshark/fiddler.html)
+
+### Git
+
+-   [Git基础](https://lll618xxx.github.io/Front-end-go-on/pages/otherLang/git/base.html)
+-   [Git进阶](https://lll618xxx.github.io/Front-end-go-on/pages/otherLang/git/frame.html)
+-   [GitLab CI/CD](https://lll618xxx.github.io/Front-end-go-on/pages/otherLang/git/cicd.html)
