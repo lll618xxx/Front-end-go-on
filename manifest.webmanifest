@@ -1,0 +1,1 @@
+{"name":"测试网页","short_name":"测试网页","description":"测试网页","lang":"zh-CN","start_url":"index.html","scope":"/Front-end-go-on/","display":"standalone","theme_color":"blue","background_color":"#ffffff","orientation":"portrait-primary","prefer_related_applications":false,"icons":[{"src":"./logo.png","sizes":"144x144","type":"image/png"}]}
